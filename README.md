@@ -25,7 +25,9 @@ Rule 4: Be adaptable.
 <br/>
 قانون چهارم: تطبیق پذیر باشیم.
 </p>
-
+<h2>
+کنترل صدا در آشپزخانه
+</h2>
 <h2>Noise Control in the Office</h2>
 <p>
 A coworking space is not a library, so you can comfortably talk and interact with friends and colleagues. Also, a coworking space is not a military base where strict rules apply. Excessive silence and noise levels below 50 decibels in the office can be stressful. We need some level of noise and chatter in the coworking space, but pay attention to the following:
